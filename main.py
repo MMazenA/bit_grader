@@ -105,4 +105,4 @@ if __name__ == "__main__":
     start_week = 0
     end_week = 0
     for name in names_list:
-        bits_calculator(name,start_week,end_week)
+        bits_calculator(name,start_week,end_week+1) #making right endpoint inclusive +1 

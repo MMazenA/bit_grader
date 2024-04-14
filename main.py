@@ -2,6 +2,10 @@ import requests
 import pandas as pd
 import re
 
+#Enter your OnlineGDB email and password here
+email = ""
+password = ""
+
 eval_links = {
     "W3V1": "https://www.onlinegdb.com/t/as/1465678/sub/evaluate",
     "W3V2": "",
@@ -32,9 +36,6 @@ names_list = [
     "First Last3"
 ]
 
-#Enter your OnlineGDB email and password here
-email = ""
-password = ""
 
 login_url = "https://www.onlinegdb.com/login"
 login_data = {

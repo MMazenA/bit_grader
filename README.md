@@ -20,7 +20,7 @@ Installation guides can be found [here](https://github.com/Akuli/python-tutorial
 
    ![image](https://github.com/MMazenA/bit_grader/assets/84817881/cda3a749-7b09-4cf4-8193-9ff3462f4db5)
 
-4. Lastly, modify the start and end dates that you're grading for. end_date is non in
+4. Lastly, modify the start and end dates that you're grading for.
    
    ![image](https://github.com/MMazenA/bit_grader/assets/84817881/e1997913-7f0e-41b6-b8e6-457540f3ba98)
 
